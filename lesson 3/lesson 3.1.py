@@ -15,5 +15,6 @@ elif action == "*":
     print(nd * r)
 
 elif action == "/":
+    print(nd / r)
     if r == 0:
         print("Error! You cannot divide by zero!")
