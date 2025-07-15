@@ -1,5 +1,3 @@
-import math
-
 nd = float(input("Enter first number: "))
 r = float(input("Enter second number: "))
 
